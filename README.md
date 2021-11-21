@@ -13,5 +13,3 @@ http://evankale.blogspot.ca/2014/10/how-to-add-midi-port-to-keyboard.html
 
 Instructables post:
 http://www.instructables.com/id/Add-MIDI-port-to-Keyboard/
-
-
